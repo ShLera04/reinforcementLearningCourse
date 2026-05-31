@@ -4,3 +4,4 @@
 3. week_2_seminar_vi.ipynb - вторая неделя дз
 4. week3_homework.ipynb - третья неделя дз
 5. week_6_reinforce_pytorch.ipynb - шестая неделя дз
+6. week_7_practice_torch.ipynb - седьмая неделя дз
